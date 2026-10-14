@@ -1,0 +1,38 @@
+{
+  "project": "OWNCAST",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "owncast/owncast",
+  "search_url": "https://api.github.com/search/repositories?q=owncast&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "owncast/owncast",
+      "stars": 11576,
+      "license": "MIT"
+    },
+    {
+      "full_name": "owncast/owncast.github.io",
+      "stars": 34,
+      "license": "MIT"
+    },
+    {
+      "full_name": "MotorAndGrit/owncast-admin",
+      "stars": 0,
+      "license": "MIT"
+    },
+    {
+      "full_name": "clemenko/owncast",
+      "stars": 12,
+      "license": null
+    },
+    {
+      "full_name": "wimpysworld/stream-sprout",
+      "stars": 95,
+      "license": "Apache-2.0"
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/owncast/owncast/commits/develop",
+  "commit_status": 200,
+  "default_branch": "develop",
+  "commit_response_excerpt": "{\"sha\":\"cd64bdf44f11998e71e6c4e9ac522ea4a8f2dd1a\",\"node_id\":\"C_kwDOD-GjqNoAKGNkNjRiZGY0NGYxMTk5OGU3MWU2YzRlOWFjNTIyZWE0YThmMmRkMWE\",\"commit\":{\"author\":{\"name\":\"Owncast\",\"email\":\"owncast@owncast.online\",\"date\":\"2026-10-03T02:06:27Z\"},\"committer\":{\"name\":\"Owncast\",\"email\":\"owncast@owncast.online\",\"date\":\"2026-10-03T02:06:27Z\"},\"message\":\"Bundle embedded web app\",\"tree\":{\"sha\":\"b52e060889167720bcee66f556faa719a88c5091\",\"url\":\"https://api.github.com/repos/owncast/owncast/git/trees/b52e060889167720bcee66f556faa719a88c5091\"},\"url\":\"https://api.github.com/repos/owncast/owncast/git/commits/cd64bdf44f1"
+}

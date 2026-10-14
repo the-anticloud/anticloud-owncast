@@ -1,0 +1,10 @@
+{
+  "project": "OWNCAST",
+  "category": "MOVIES_MEDIA",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\MOVIES_MEDIA\\OWNCAST",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head='REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE'; sanitized clone or .git absent)",
+  "files_count": 1662,
+  "lines_of_code": 102355,
+  "sha": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+}
